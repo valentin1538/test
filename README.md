@@ -1,5 +1,9 @@
 # SCRIPT POWERSHELL RECHERCHE OP DANS IL12 ET ENVOIE IL12 AU WEB SERVICE | SERVEUR DE TEST
 
+### Où trouver les scripts ?
+
+Connectez vous au serveut de test lmst, puis rendez vous dans le dossier de l'utilisateur *Public* (accessible par tous), vous trouverez les différents scripts dans le dossier *scripts*.
+
 **A faire manuellement :** Créer un fichier CSV avec les colonnes suivante : *op* (numéro d'OP), *statut* (pre, rel, inp, pac, loa, shi), *cible* (ct ou m3).
 Ce fichier doit contenir la liste des OPs à rechercher dans les il12. **PS :** *Le statut doit être le même pour chaque OP (recherche d'un statut à la fois)*.
 
