@@ -68,7 +68,7 @@ Cette spécification décrit les fonctionnalités et les exigences techniques de
 
     - Gérer les réponses du webservice pour indiquer le succès ou l'échec de l'envoi.
 
-### Interface Utilisateur
+### Interface utilisateur
 
 - **Description :** Créer une interface utilisateur moderne et intuitive.
 
@@ -84,7 +84,7 @@ Cette spécification décrit les fonctionnalités et les exigences techniques de
 
     - L'interface doit être responsive et adaptée à différentes résolutions d'écran.
 
-### Interface Utilisateur
+### Gestion des erreurs
 
 - **Description :** Gérer les erreurs potentielles lors du chargement de fichiers, de la recherche et de l'envoi au webservice.
 
